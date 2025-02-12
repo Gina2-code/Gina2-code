@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Gina2-code
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning cybersecurity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to learn security for big data
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love the 80/90s RnBs
 
