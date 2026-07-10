@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @Gina2-code
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning cybersecurity
-- 💞️ I’m looking to learn security for big data
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love the 80/90s RnBs
+-Hey there! I'm GeorginaK 👋
+
+👩🏽‍💻 Computer Science graduate
+
+📈 Interested in data analytics, AI.
+
+🌱 Currently learning something new every day.
+
+🚀 Building projects, improving my skills and sharing what I learn.
+
+🎵 Fun fact: Good code and good '80s/'90s R&B go hand in hand.
 
 <!---
 Gina2-code/Gina2-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
